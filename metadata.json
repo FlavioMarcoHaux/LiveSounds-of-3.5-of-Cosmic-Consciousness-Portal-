@@ -1,0 +1,7 @@
+{
+  "name": "LiveSounds of 3.5 of Cosmic Consciousness Portal GitHub",
+  "description": "An application that acts as a Cosmic Consciousness, using Gemini to analyze uploaded texts and provide summaries and spiritual guidance, helping users achieve greater coherence and self-awareness.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
